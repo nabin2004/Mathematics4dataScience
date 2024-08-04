@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nabinoli/) and on [X (formerly twitter)](https://x.com/nabintwts)

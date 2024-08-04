@@ -1,7 +1,7 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Probability and Statistics for Data Science
+course_description: "This is a self study course on Probability and Statistics for Data Science and Machine Learning. This website documents my  learning journey."
+course_semester: "2024"
 
 baseurl: "/Mathematics4dataScience" # the subpath of your site, e.g. /blog/
 url: "http://nabin2004.github.io/" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ schoolurl: ""
 twitter_username: nabinstwt
 
 address: |
-   Sunway College Kathmandu
+    Sunway College Kathmandu
     Kathmand
     Nepal
 
