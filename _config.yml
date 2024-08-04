@@ -3,7 +3,7 @@ course_name: Probability and Statistics for Data Science
 course_description: "This is a self study course on Probability and Statistics for Data Science and Machine Learning. This website documents my  learning journey."
 course_semester: "2024"
 
-baseurl: "/Mathematics4dataScience" # the subpath of your site, e.g. /blog/
+baseurl: "/prob-stats" # the subpath of your site, e.g. /blog/
 url: "http://nabin2004.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Self Study"
